@@ -1,6 +1,10 @@
 
 [![MasterHead](https://cdn.dribbble.com/users/1446889/screenshots/3587708/media/b5078a0aa9d0363348eb9bedb2dc014b.gif)]
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Bakhtovar Abdulloev</h1>
 <h3 align="center">Student at Perm Polytechnic University | Enthusiastic Java Backend Developer</h3>
 <!-- <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1446889/screenshots/3587708/media/b5078a0aa9d0363348eb9bedb2dc014b.gif"> -->
