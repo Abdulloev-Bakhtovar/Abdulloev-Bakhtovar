@@ -11,11 +11,13 @@
 ---
 
 <h3 align="center">Студент 3 курса Пермского политехнического университета | Java Backend-разработчик</h3>
-<!-- <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1446889/screenshots/3587708/media/b5078a0aa9d0363348eb9bedb2dc014b.gif"> -->
+<!-- <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1446889/screenshots/3587708/media/b5078a0aa9d0363348eb9bedb2dc014b.gif"> 
+https://github-profile-trophy.vercel.app/?username=
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulloev-bakhtovar&label=Profile%20views&color=0e75b6&style=flat" alt="abdulloev-bakhtovar" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulloev-bakhtovar" alt="abdulloev-bakhtovar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulloev-bakhtovar&theme=monokai" alt="abdulloev-bakhtovar" /></a> </p>
 
 - 🌱  В данный момент я изучаю **Java и Spring Framework**
 
