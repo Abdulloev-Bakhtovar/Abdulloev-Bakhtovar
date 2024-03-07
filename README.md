@@ -1,5 +1,6 @@
-
+<!--
 [![MasterHead](https://cdn.dribbble.com/users/1446889/screenshots/3587708/media/b5078a0aa9d0363348eb9bedb2dc014b.gif)]
+-->
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
