@@ -6,32 +6,33 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Bakhtovar Abdulloev</h1>
-<h3 align="center">Student at Perm Polytechnic University | Enthusiastic Java Backend Developer</h3>
+<h1 align="center">Привет, меня зовут Бахтовар(Баха)!</h1>
+
+---
+
+<h3 align="center">Студент 3 курса Пермского политехнического университета | Java Backend-разработчик</h3>
 <!-- <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1446889/screenshots/3587708/media/b5078a0aa9d0363348eb9bedb2dc014b.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulloev-bakhtovar&label=Profile%20views&color=0e75b6&style=flat" alt="abdulloev-bakhtovar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulloev-bakhtovar" alt="abdulloev-bakhtovar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulloev-bakhtovar" alt="abdulloev-bakhtovar" /></a> </p>
 
-- 🌱 I’m currently learning **Java and Spring**
+- 🌱  В данный момент я изучаю **Java и Spring Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdulloev-Bakhtovar?tab=repositories](https://github.com/Abdulloev-Bakhtovar?tab=repositories)
+- 👨‍💻 Все мои проекты доступны по ссылке [https://github.com/Abdulloev-Bakhtovar?tab=repositories](https://github.com/Abdulloev-Bakhtovar?tab=repositories)
 
-- 💬 Ask me about **Java, Spring, Hibernate and Security**
+- 💬 Навыки **ООП, Java, Spring Framework, Hibernate, REST API, Базы данных, Git, Linux**
 
-- 📫 How to reach me **bakht2003@mail.ru**
+- ⚡ Интересный факт: **Программисты - единственные маги, которые могут сказать 'It's not a bug, it's a feature' и заставить пользователя поверить в это.**
 
-- 📄 Know about my experiences [empty.emp](empty.emp)
+<h3 align="left">Свяжитесь со мной:</h3>
 
-- ⚡ Fun fact **Программисты - единственные маги, которые могут сказать 'It's not a bug, it's a feature' и заставить пользователя поверить в это.**
+- **Discord:** [bakht_abdulloev](https://discord.gg/bakht_abdulloev)
+- **ВКонтакте:** [mr_bakht_2003](https://vk.com/mr_bakht_2003)
+- **Телеграмм:** [bakht_2003](https://t.me/bakht_2003)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/bakht_abdulloev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bakht_abdulloev" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Языки и инструменты:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
@@ -43,6 +44,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+  <br/><br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulloev-bakhtovar&show_icons=true&locale=en&layout=compact" alt="abdulloev-bakhtovar" /></p>
 
