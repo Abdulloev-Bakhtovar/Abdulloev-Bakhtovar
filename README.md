@@ -6,7 +6,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<h1 align="center">Привет, меня зовут Бахтовар(Баха)</h1>
+<h1 align="center">Привет, меня зовут Бахтовар</h1>
 
 ---
 
