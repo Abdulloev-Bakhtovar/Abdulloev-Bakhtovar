@@ -19,7 +19,7 @@ https://github-profile-trophy.vercel.app/?username=
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulloev-bakhtovar&theme=monokai" alt="abdulloev-bakhtovar" /></a> </p>
 
-- 🌱  В данный момент я изучаю **Java и Spring Framework**
+- 🌱  В данный момент я изучаю **Java и Spring**
 
 - 👨‍💻 Все мои проекты доступны по ссылке [https://github.com/Abdulloev-Bakhtovar?tab=repositories](https://github.com/Abdulloev-Bakhtovar?tab=repositories)
 
