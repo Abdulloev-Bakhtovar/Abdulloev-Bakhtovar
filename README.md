@@ -21,7 +21,7 @@ https://github-profile-trophy.vercel.app/?username=
 
 - 🌱  В данный момент я изучаю **Java и Spring**
 
-- 👨‍💻 Все мои проекты доступны по ссылке [https://github.com/Abdulloev-Bakhtovar?tab=repositories](https://github.com/Abdulloev-Bakhtovar?tab=repositories)
+- 👨‍💻 Все мои проекты доступны по ссылке [GitHub](https://github.com/Abdulloev-Bakhtovar?tab=repositories)
 
 - 💬 Навыки **ООП, Java, Spring Framework, Hibernate, REST API, Базы данных, Git, Linux**
 
@@ -29,9 +29,9 @@ https://github-profile-trophy.vercel.app/?username=
 
 <h3 align="left">Свяжитесь со мной:</h3>
 
-- **Discord:** [bakht_abdulloev](https://discord.gg/bakht_abdulloev)
-- **ВКонтакте:** [mr_bakht_2003](https://vk.com/mr_bakht_2003)
-- **Телеграмм:** [bakht_2003](https://t.me/bakht_2003)
+- **[Discord](https://discord.gg/bakht_abdulloev)**
+- **[ВКонтакте](https://vk.com/mr_bakht_2003)**
+- **[Телеграмм](https://t.me/bakht_2003)**
 
 
 <h3 align="left">Языки и инструменты:</h3>
