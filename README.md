@@ -19,7 +19,7 @@ https://github-profile-trophy.vercel.app/?username=
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulloev-bakhtovar&theme=monokai" alt="abdulloev-bakhtovar" /></a> </p>
 
-- 🌱  В данный момент я изучаю **Java и Spring**
+- 💻 Работаю backend-разработчиком на языке Java, имею опыт коммерческой разработки 1,5 года, преимущественно с использованием Spring Framework.
 
 - 👨‍💻 Все мои проекты доступны по ссылке [GitHub](https://github.com/Abdulloev-Bakhtovar?tab=repositories)
 
@@ -29,9 +29,8 @@ https://github-profile-trophy.vercel.app/?username=
 
 <h3 align="left">Свяжитесь со мной:</h3>
 
-- **[Discord](https://discord.gg/bakht_abdulloev)**
-- **[ВКонтакте](https://vk.com/mr_bakht_2003)**
 - **[Телеграмм](https://t.me/bakht_2003)**
+- **[ВКонтакте](https://vk.com/mr_bakht_2003)**
 
 
 <h3 align="left">Языки и инструменты:</h3>
