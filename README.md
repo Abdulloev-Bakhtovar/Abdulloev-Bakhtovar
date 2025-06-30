@@ -6,14 +6,11 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<h1 align="center">Привет, меня зовут Бахтовар</h1>
+<h1 align="center">Hi, меня зовут Бахтовар</h1>
 
 ---
 
-<h3 align="center">Студент 4 курса Пермского политехнического университета | Java Backend-разработчик</h3>
-<!-- <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1446889/screenshots/3587708/media/b5078a0aa9d0363348eb9bedb2dc014b.gif"> 
-https://github-profile-trophy.vercel.app/?username=
--->
+<h3 align="center">Выпускник Пермского политехнического университета | Java Backend-разработчик</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulloev-bakhtovar&label=Profile%20views&color=0e75b6&style=flat" alt="abdulloev-bakhtovar" /> </p>
 
@@ -23,7 +20,7 @@ https://github-profile-trophy.vercel.app/?username=
 
 - 👨‍💻 Все мои проекты доступны по ссылке [GitHub](https://github.com/Abdulloev-Bakhtovar?tab=repositories)
 
-- 💬 Навыки **ООП, Java, Spring Framework, Hibernate, REST API, Базы данных, Git, Linux**
+- 💬 Навыки **Java, Spring (Boot, Security), Hibernate, PostgreSQL, MySQL, Liquibase, Git, Docker, Kafka, Linux, Keycloak, Websockets**
 
 - ⚡ Интересный факт: **Программисты - единственные маги, которые могут сказать 'It's not a bug, it's a feature' и заставить пользователя поверить в это.**
 
@@ -51,6 +48,7 @@ https://github-profile-trophy.vercel.app/?username=
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulloev-bakhtovar&show_icons=true&theme=radical&locale=en&layout=compact" alt="abdulloev-bakhtovar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulloev-bakhtovar&show_icons=true&theme=radical" alt="abdulloev-bakhtovar" /></p>
-
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulloev-bakhtovar&theme=radical&" alt="abdulloev-bakhtovar" /></p>
+-->
 
