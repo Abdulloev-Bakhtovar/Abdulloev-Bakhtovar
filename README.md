@@ -14,8 +14,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulloev-bakhtovar&label=Profile%20views&color=0e75b6&style=flat" alt="abdulloev-bakhtovar" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulloev-bakhtovar&theme=monokai" alt="abdulloev-bakhtovar" /></a> </p>
-
 - 💻 Работаю backend-разработчиком на языке Java, имею опыт коммерческой разработки 1,5 года, преимущественно с использованием Spring Framework.
 
 - 👨‍💻 Все мои проекты доступны по ссылке [GitHub](https://github.com/Abdulloev-Bakhtovar?tab=repositories)
